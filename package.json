@@ -5,8 +5,7 @@
     "main": "package.json",
     "license": "UNLICENSED",
     "scripts": {
-      "backend": "cd backend && npm run dev",
-      "frontend": "cd frontend && npm run dev"
+        "backend": "cd backend && npm run dev",
+        "frontend": "cd frontend && npm run dev"
     }
 }
-  
